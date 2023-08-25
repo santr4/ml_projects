@@ -8,3 +8,4 @@ My projects -
     - Credit Card Fraud Detection
     - Disease Prediction Using ML
     - Wine Quality Analysis
+    - Dogecoin Price Prediction
