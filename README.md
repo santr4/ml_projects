@@ -11,3 +11,4 @@ My projects -
     - Dogecoin Price Prediction
     - NIFTY-50 STOCK MARKET(BAJAJFINSV)
     - Uber Ride Data Analysis
+    - Spaceship Titanic
